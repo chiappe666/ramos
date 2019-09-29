@@ -37,7 +37,7 @@
 		["Vision Estetica", "HRW-103", 2, "HUM"]
 	],
 	"s6": [
-		["Campos Electromagneticos I", "FIS-220", 4, "LIC", ["FIS-120","FIS-130","MAT-023"]],
+		["Campos Electromagneticos I", "FIS-220", 4, "LIC", ["FIS-120","FIS-130","MAT-024"]],
 		["Estructura Atomica y Nuclear I", "FIS-240", 4, "LIC", ["FIS-140","FIS-211"]],
 		["Física Electronica", "FIS-290", 4, "LIC", ["FIS-140"]],
 		["Inglés III", "HCW-102", 2, "IN",["HCW-101"]],
